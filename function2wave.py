@@ -2,7 +2,7 @@ import numpy as np
 from scipy.io.wavfile import write
 
 samplerate = 44100
-f = 220              #Frequenz des Sinus-Tons in Hz
+f = 440              #Frequenz des Sinus-Tons in Hz
 t = 3                #Dauer des Tons in s
 p = 50               #Lautstärke von 1 bis 100   
 
